@@ -20,7 +20,6 @@ Newsletter Widgets,
 Recent Posts Widgets
  & MORE COMING.....
 
-[Check the Demos](https://themepixer.com/pixer-widgets)
 
 
 
